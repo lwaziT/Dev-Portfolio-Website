@@ -3,7 +3,7 @@
         height: 83vh;
         margin-bottom: 6rem;
     }
-    .about-containers {
+    .about-container {
         flex-wrap: wrap;
     }
 }
@@ -45,7 +45,7 @@
         margin: 0 auto 2rem;
     }
 
-    .about-containers {
+    .about-container {
         margin-top: 0;
     }
 }
@@ -70,7 +70,7 @@
         margin-bottom: 2rem;
     }
 
-    .about-containers,
+    .about-container,
     .contact-info-upper-container,
     .btn-container {
         flex-wrap: wrap;
@@ -105,7 +105,7 @@
         justify-content: center;
     }
 
-    .section-text-p2 {
+    .section_text_p2 {
         font-size: 1.25rem;
     }
 
